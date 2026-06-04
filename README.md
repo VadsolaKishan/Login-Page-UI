@@ -50,13 +50,11 @@ A modern web browser (Chrome, Firefox, Safari, Edge).
 
 ## 📸 Screenshots
 
-*(Replace the placeholders below with actual screenshots of your application)*
-
 > **Login Page**
-> ![Login Page Placeholder](https://via.placeholder.com/800x450?text=Login+Page+Screenshot)
+> ![Login Page](login.png)
 
 > **Signup Page**
-> ![Signup Page Placeholder](https://via.placeholder.com/800x450?text=Signup+Page+Screenshot)
+> ![Signup Page](signup.png)
 
 ## 🤝 Contributing
 
