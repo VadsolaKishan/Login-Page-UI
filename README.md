@@ -66,4 +66,4 @@ Feel free to check out the [issues page](https://github.com/VadsolaKishan/Login-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
 
 ---
-*Created with ❤️ by [Vadsola Kishan / Synent Technologies](https://github.com/VadsolaKishan)*
+*Created with ❤️ by [Vadsola Kishan](https://github.com/VadsolaKishan)*
