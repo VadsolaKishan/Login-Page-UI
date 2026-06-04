@@ -37,7 +37,7 @@ A modern web browser (Chrome, Firefox, Safari, Edge).
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/login-page-ui.git
+   git clone https://github.com/VadsolaKishan/Login-Page-UI.git
    ```
 
 2. **Navigate to the project directory:**
@@ -61,11 +61,11 @@ A modern web browser (Chrome, Firefox, Safari, Edge).
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are always welcome! 
-Feel free to check out the [issues page](https://github.com/your-username/login-page-ui/issues) if you have any questions or want to contribute.
+Feel free to check out the [issues page](https://github.com/VadsolaKishan/Login-Page-UI/issues) if you have any questions or want to contribute.
 
 ## 📄 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
 
 ---
-*Created with ❤️ by [Your Name/Synent Technologies]*
+*Created with ❤️ by [Vadsola Kishan / Synent Technologies](https://github.com/VadsolaKishan)*
