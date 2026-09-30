@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loginCard = document.getElementById('loginCard');
     const mouseSpotlight = document.getElementById('mouseSpotlight');
     const loginForm = document.getElementById('loginForm');
-    
+
     // Inputs & Groups
     const txtEmail = document.getElementById('txtEmail');
     const txtPassword = document.getElementById('txtPassword');
